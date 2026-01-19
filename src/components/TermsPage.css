@@ -1,0 +1,33 @@
+main {
+  padding: 60px;
+}
+
+main h1 {
+  font-weight: 700;
+}
+
+main p {
+  font-weight: 500;
+}
+
+main .medium {
+  font-weight: 500;
+}
+
+main a {
+  color: #12304C;
+  font-weight: 700;
+}
+
+main img {
+  width: 80px;
+  height: 80px;
+}
+
+main address {
+  font-weight: 600;
+}
+
+main li {
+  font-weight: 500;
+}
